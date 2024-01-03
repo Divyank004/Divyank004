@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyank
 - 👀 I’m interested in Web/Mobile App development, C++.
-- 🌱 I’m currently learning and working on Vue.js
+- 🌱 I’m currentl working on Vue.js and Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divyank004@gmail.com
 
