@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divyank
-- 👀 I’m interested in Web/Mobile App development, C++.
-- 🌱 I’m currentl working on Vue.js and Node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack Web App development, C++.
+- 🌱 I’m currentl working on Vue 3 and Node.js 
+- 💞️ I’m looking to collaborate on developing Full stack apps.
 - 📫 How to reach me divyank004@gmail.com
 
 <!---
